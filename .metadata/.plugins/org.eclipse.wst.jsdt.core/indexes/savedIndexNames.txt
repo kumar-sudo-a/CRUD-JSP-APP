@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\My Files\Learning\Code\CRUD JSP JDBC APP\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1082506102.index
+4003297677.index
+122693997.index
+3504070579.index
+2113301545.index
